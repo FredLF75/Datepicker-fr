@@ -1,1 +1,1 @@
-Pour implémenter un widget JQuery "Datepicker" avec des dtaes au format français
+Pour implémenter un widget JQuery "Datepicker" avec les dates au format français
